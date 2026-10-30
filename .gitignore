@@ -1,0 +1,33 @@
+# Python generated artefacts
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# EXE and packaging artefacts (the build is configured outside this repo)
+build/
+dist/
+*.exe
+*.msi
+*.spec
+*.egg-info/
+*.whl
+
+# Local project autosaves / recovery
+.recovery/
+*.autosave
+
+# Editor and OS artefacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

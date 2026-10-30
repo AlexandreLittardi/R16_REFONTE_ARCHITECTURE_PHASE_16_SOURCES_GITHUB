@@ -1,0 +1,16 @@
+﻿Row,A,B,C,D,E,F
+1,,,,,,
+2,,,,,,
+3,,,,,,
+4,Weight B1,=B15*ZONE1_PANEL_COUNT,kg,Power,=PV_CAPACITY_WP,Wc
+5,Weight B2,=B15*ZONE2_PANEL_COUNT,kg,Project DC power,=PV_CAPACITY_WP,Wc
+6,Weight B3,=B15*ZONE3_PANEL_COUNT,kg,,,
+7,Weight B4,=B15*ZONE4_PANEL_COUNT,kg,Difference,=E4-E5,Wc
+8,Weight B5,=B15*ZONE5_PANEL_COUNT,kg,,,
+9,Weight B6,=B15*ZONE6_PANEL_COUNT,kg,,,
+10,Weight B7,=B15*ZONE7_PANEL_COUNT,kg,,,
+11,Weight B8,=B15*ZONE8_PANEL_COUNT,kg,,,
+12,Weight B9,=ZONE9_PANEL_COUNT*B15,kg,,,
+13,Tot,=SUM(B4:B12),kg,,,
+14,,,,,,
+15,1 pannel weight,38.3,kg,,,

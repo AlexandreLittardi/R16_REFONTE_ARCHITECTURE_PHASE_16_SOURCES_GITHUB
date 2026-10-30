@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="742" height="350" preserveAspectRatio="xMinYMin meet" viewBox="0 0 742 350" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="742" height="350"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-350)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 0,31 L 742,31 Z" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<g transform=" matrix(1,0,0,1,7,18)">
+				<text x="0" y="-2.4" style="font-family: Helvetica-Bold; font-size: 8px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-4) scale(1,-1)">MOUNTING / ENLARGED VIEW</text>
+			</g>
+			<g transform=" matrix(1,0,0,1,7,7)">
+				<text x="0" y="-2.1" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-4) scale(1,-1)">Usine Frimo 537</text>
+			</g>
+			<g transform=" matrix(1,0,0,1,735,18)">
+				<text x="-107.8" y="-2.1" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-4) scale(1,-1)">MT-T06 | 29/10/2026 | Ref. 644682F4</text>
+			</g>
+			<g transform=" matrix(1,0,0,1,735,7)">
+				<text x="-97.461" y="-2.1" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-4) scale(1,-1)">1:150 at 100% | dimensions in mm</text>
+			</g>
+			<polygon points="125.0404 259.0565, 149.664 259.0565, 149.664 214.0046, 125.0404 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,137.352178,236.530541)">
+				<rect x="-6.928664188976383" y="-3.0683842519685065" width="13.857328377952767" height="7.90966929133859" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976383" y="-1.772900787401577" style="font-family: Helvetica-Bold; font-size: 5.90966929133859px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">153</text>
+			</g>
+			<polygon points="150.0041 259.0565, 174.6278 259.0565, 174.6278 214.0046, 150.0041 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,162.315957,236.530541)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">154</text>
+			</g>
+			<polygon points="174.9679 259.0565, 199.5915 259.0565, 199.5915 214.0046, 174.9679 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,187.279737,236.530541)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">155</text>
+			</g>
+			<polygon points="199.9317 259.0565, 224.5553 259.0565, 224.5553 214.0046, 199.9317 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,212.243516,236.530541)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">156</text>
+			</g>
+			<polygon points="224.8955 259.0565, 249.5191 259.0565, 249.5191 214.0046, 224.8955 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,237.207296,236.530541)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">157</text>
+			</g>
+			<polygon points="249.8593 259.0565, 274.4829 259.0565, 274.4829 214.0046, 249.8593 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,262.171075,236.530541)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">158</text>
+			</g>
+			<polygon points="274.823 259.0565, 299.4467 259.0565, 299.4467 214.0046, 274.823 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,287.134855,236.530541)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">159</text>
+			</g>
+			<polygon points="299.7868 259.0565, 324.4104 259.0565, 324.4104 214.0046, 299.7868 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,312.098634,236.530541)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">160</text>
+			</g>
+			<polygon points="324.7506 259.0565, 349.3742 259.0565, 349.3742 214.0046, 324.7506 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,337.062414,236.530541)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">161</text>
+			</g>
+			<polygon points="349.7144 259.0565, 374.338 259.0565, 374.338 214.0046, 349.7144 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,362.026193,236.530541)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">162</text>
+			</g>
+			<polygon points="374.6782 259.0565, 399.3018 259.0565, 399.3018 214.0046, 374.6782 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,386.989973,236.530541)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">163</text>
+			</g>
+			<polygon points="399.6419 259.0565, 424.2656 259.0565, 424.2656 214.0046, 399.6419 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,411.953752,236.530541)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">164</text>
+			</g>
+			<polygon points="424.6057 259.0565, 449.2293 259.0565, 449.2293 214.0046, 424.6057 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,436.917532,236.530541)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">165</text>
+			</g>
+			<polygon points="125.0404 214.0046, 149.664 214.0046, 149.664 168.9526, 125.0404 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,137.352178,191.478572)">
+				<rect x="-6.928664188976383" y="-3.0683842519685065" width="13.857328377952767" height="7.90966929133859" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976383" y="-1.772900787401577" style="font-family: Helvetica-Bold; font-size: 5.90966929133859px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">168</text>
+			</g>
+			<polygon points="150.0041 214.0046, 174.6278 214.0046, 174.6278 168.9526, 150.0041 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,162.315957,191.478572)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">169</text>
+			</g>
+			<polygon points="174.9679 214.0046, 199.5915 214.0046, 199.5915 168.9526, 174.9679 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,187.279737,191.478572)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">170</text>
+			</g>
+			<polygon points="199.9317 214.0046, 224.5553 214.0046, 224.5553 168.9526, 199.9317 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,212.243516,191.478572)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">171</text>
+			</g>
+			<polygon points="224.8955 214.0046, 249.5191 214.0046, 249.5191 168.9526, 224.8955 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,237.207296,191.478572)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">172</text>
+			</g>
+			<polygon points="249.8593 214.0046, 274.4829 214.0046, 274.4829 168.9526, 249.8593 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,262.171075,191.478572)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">173</text>
+			</g>
+			<polygon points="274.823 214.0046, 299.4467 214.0046, 299.4467 168.9526, 274.823 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,287.134855,191.478572)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">174</text>
+			</g>
+			<polygon points="299.7868 214.0046, 324.4104 214.0046, 324.4104 168.9526, 299.7868 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,312.098634,191.478572)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">175</text>
+			</g>
+			<polygon points="324.7506 214.0046, 349.3742 214.0046, 349.3742 168.9526, 324.7506 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,337.062414,191.478572)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">176</text>
+			</g>
+			<polygon points="349.7144 214.0046, 374.338 214.0046, 374.338 168.9526, 349.7144 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,362.026193,191.478572)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">177</text>
+			</g>
+			<polygon points="374.6782 214.0046, 399.3018 214.0046, 399.3018 168.9526, 374.6782 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,386.989973,191.478572)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">178</text>
+			</g>
+			<polygon points="399.6419 214.0046, 424.2656 214.0046, 424.2656 168.9526, 399.6419 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,411.953752,191.478572)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">179</text>
+			</g>
+			<polygon points="424.6057 214.0046, 449.2293 214.0046, 449.2293 168.9526, 424.6057 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,436.917532,191.478572)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">180</text>
+			</g>
+			<polygon points="125.0404 168.9526, 149.664 168.9526, 149.664 123.9006, 125.0404 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,137.352178,146.426604)">
+				<rect x="-6.928664188976383" y="-3.0683842519685065" width="13.857328377952767" height="7.90966929133859" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976383" y="-1.772900787401577" style="font-family: Helvetica-Bold; font-size: 5.90966929133859px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">183</text>
+			</g>
+			<polygon points="150.0041 168.9526, 174.6278 168.9526, 174.6278 123.9006, 150.0041 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,162.315957,146.426604)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">184</text>
+			</g>
+			<polygon points="174.9679 168.9526, 199.5915 168.9526, 199.5915 123.9006, 174.9679 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,187.279737,146.426604)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">185</text>
+			</g>
+			<polygon points="199.9317 168.9526, 224.5553 168.9526, 224.5553 123.9006, 199.9317 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,212.243516,146.426604)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">186</text>
+			</g>
+			<polygon points="224.8955 168.9526, 249.5191 168.9526, 249.5191 123.9006, 224.8955 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,237.207296,146.426604)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">187</text>
+			</g>
+			<polygon points="249.8593 168.9526, 274.4829 168.9526, 274.4829 123.9006, 249.8593 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,262.171075,146.426604)">
+				<rect x="-6.928664188976387" y="-3.0683842519685074" width="13.857328377952774" height="7.909669291338593" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976387" y="-1.7729007874015779" style="font-family: Helvetica-Bold; font-size: 5.909669291338593px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">188</text>
+			</g>
+			<polygon points="274.823 168.9526, 299.4467 168.9526, 299.4467 123.9006, 274.823 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,287.134855,146.426604)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">189</text>
+			</g>
+			<polygon points="299.7868 168.9526, 324.4104 168.9526, 324.4104 123.9006, 299.7868 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,312.098634,146.426604)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">190</text>
+			</g>
+			<polygon points="324.7506 168.9526, 349.3742 168.9526, 349.3742 123.9006, 324.7506 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,337.062414,146.426604)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">191</text>
+			</g>
+			<polygon points="349.7144 168.9526, 374.338 168.9526, 374.338 123.9006, 349.7144 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,362.026193,146.426604)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">192</text>
+			</g>
+			<polygon points="374.6782 168.9526, 399.3018 168.9526, 399.3018 123.9006, 374.6782 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,386.989973,146.426604)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">193</text>
+			</g>
+			<polygon points="399.6419 168.9526, 424.2656 168.9526, 424.2656 123.9006, 399.6419 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,411.953752,146.426604)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">194</text>
+			</g>
+			<polygon points="424.6057 168.9526, 449.2293 168.9526, 449.2293 123.9006, 424.6057 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,436.917532,146.426604)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">195</text>
+			</g>
+			<polygon points="487.0246 259.0565, 511.6482 259.0565, 511.6482 214.0046, 487.0246 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,499.33643,236.530541)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">256</text>
+			</g>
+			<polygon points="511.9884 259.0565, 536.612 259.0565, 536.612 214.0046, 511.9884 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,524.300209,236.530541)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">257</text>
+			</g>
+			<polygon points="536.9522 259.0565, 561.5758 259.0565, 561.5758 214.0046, 536.9522 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,549.263989,236.530541)">
+				<rect x="-6.928664188976404" y="-3.0683842519685145" width="13.857328377952808" height="7.909669291338614" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976404" y="-1.772900787401584" style="font-family: Helvetica-Bold; font-size: 5.909669291338614px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">258</text>
+			</g>
+			<polygon points="561.916 259.0565, 586.5396 259.0565, 586.5396 214.0046, 561.916 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,574.227768,236.530541)">
+				<rect x="-6.928664188976404" y="-3.0683842519685145" width="13.857328377952808" height="7.909669291338614" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976404" y="-1.772900787401584" style="font-family: Helvetica-Bold; font-size: 5.909669291338614px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">259</text>
+			</g>
+			<polygon points="586.8797 259.0565, 611.5034 259.0565, 611.5034 214.0046, 586.8797 214.0046" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,599.191548,236.530541)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">260</text>
+			</g>
+			<polygon points="487.0246 214.0046, 511.6482 214.0046, 511.6482 168.9526, 487.0246 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,499.33643,191.478572)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">271</text>
+			</g>
+			<polygon points="511.9884 214.0046, 536.612 214.0046, 536.612 168.9526, 511.9884 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,524.300209,191.478572)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">272</text>
+			</g>
+			<polygon points="536.9522 214.0046, 561.5758 214.0046, 561.5758 168.9526, 536.9522 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,549.263989,191.478572)">
+				<rect x="-6.928664188976404" y="-3.0683842519685145" width="13.857328377952808" height="7.909669291338614" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976404" y="-1.772900787401584" style="font-family: Helvetica-Bold; font-size: 5.909669291338614px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">273</text>
+			</g>
+			<polygon points="561.916 214.0046, 586.5396 214.0046, 586.5396 168.9526, 561.916 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,574.227768,191.478572)">
+				<rect x="-6.928664188976404" y="-3.0683842519685145" width="13.857328377952808" height="7.909669291338614" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976404" y="-1.772900787401584" style="font-family: Helvetica-Bold; font-size: 5.909669291338614px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">274</text>
+			</g>
+			<polygon points="586.8797 214.0046, 611.5034 214.0046, 611.5034 168.9526, 586.8797 168.9526" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,599.191548,191.478572)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">275</text>
+			</g>
+			<polygon points="487.0246 168.9526, 511.6482 168.9526, 511.6482 123.9006, 487.0246 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,499.33643,146.426604)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">286</text>
+			</g>
+			<polygon points="511.9884 168.9526, 536.612 168.9526, 536.612 123.9006, 511.9884 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,524.300209,146.426604)">
+				<rect x="-6.928664188976392" y="-3.06838425196851" width="13.857328377952784" height="7.9096692913386" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976392" y="-1.77290078740158" style="font-family: Helvetica-Bold; font-size: 5.9096692913386px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">287</text>
+			</g>
+			<polygon points="536.9522 168.9526, 561.5758 168.9526, 561.5758 123.9006, 536.9522 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,549.263989,146.426604)">
+				<rect x="-6.928664188976404" y="-3.0683842519685145" width="13.857328377952808" height="7.909669291338614" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976404" y="-1.772900787401584" style="font-family: Helvetica-Bold; font-size: 5.909669291338614px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">288</text>
+			</g>
+			<polygon points="561.916 168.9526, 586.5396 168.9526, 586.5396 123.9006, 561.916 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,574.227768,146.426604)">
+				<rect x="-6.928664188976404" y="-3.0683842519685145" width="13.857328377952808" height="7.909669291338614" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976404" y="-1.772900787401584" style="font-family: Helvetica-Bold; font-size: 5.909669291338614px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">289</text>
+			</g>
+			<polygon points="586.8797 168.9526, 611.5034 168.9526, 611.5034 123.9006, 586.8797 123.9006" style="stroke: rgb(23%,23%,23%); stroke-linecap: butt; stroke-width: 0.45; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,599.191548,146.426604)">
+				<rect x="-6.928664188976381" y="-3.068384251968505" width="13.857328377952761" height="7.909669291338586" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+				<text x="-4.928664188976381" y="-1.7729007874015759" style="font-family: Helvetica-Bold; font-size: 5.909669291338586px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-3) scale(1,-1)">290</text>
+			</g>
+			<polygon points="122.0356 250.5715, 127.7049 250.5715, 127.7049 248.9463, 122.0356 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="122.0356 241.1227, 127.7049 241.1227, 127.7049 239.4975, 122.0356 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="122.0356 224.1148, 127.7049 224.1148, 127.7049 222.4896, 122.0356 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="146.9994 250.5715, 152.6687 250.5715, 152.6687 248.9463, 146.9994 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="146.9994 241.1227, 152.6687 241.1227, 152.6687 239.4975, 146.9994 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="146.9994 224.1148, 152.6687 224.1148, 152.6687 222.4896, 146.9994 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="171.9632 250.5715, 177.6325 250.5715, 177.6325 248.9463, 171.9632 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="171.9632 241.1227, 177.6325 241.1227, 177.6325 239.4975, 171.9632 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="171.9632 224.1148, 177.6325 224.1148, 177.6325 222.4896, 171.9632 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="196.927 250.5715, 202.5963 250.5715, 202.5963 248.9463, 196.927 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="196.927 241.1227, 202.5963 241.1227, 202.5963 239.4975, 196.927 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="196.927 224.1148, 202.5963 224.1148, 202.5963 222.4896, 196.927 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="221.8908 250.5715, 227.5601 250.5715, 227.5601 248.9463, 221.8908 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="221.8908 241.1227, 227.5601 241.1227, 227.5601 239.4975, 221.8908 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="221.8908 224.1148, 227.5601 224.1148, 227.5601 222.4896, 221.8908 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="246.8545 250.5715, 252.5238 250.5715, 252.5238 248.9463, 246.8545 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="246.8545 241.1227, 252.5238 241.1227, 252.5238 239.4975, 246.8545 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="246.8545 224.1148, 252.5238 224.1148, 252.5238 222.4896, 246.8545 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="271.8183 250.5715, 277.4876 250.5715, 277.4876 248.9463, 271.8183 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="271.8183 241.1227, 277.4876 241.1227, 277.4876 239.4975, 271.8183 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="271.8183 224.1148, 277.4876 224.1148, 277.4876 222.4896, 271.8183 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="296.7821 250.5715, 302.4514 250.5715, 302.4514 248.9463, 296.7821 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="296.7821 241.1227, 302.4514 241.1227, 302.4514 239.4975, 296.7821 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="296.7821 224.1148, 302.4514 224.1148, 302.4514 222.4896, 296.7821 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="321.7459 250.5715, 327.4152 250.5715, 327.4152 248.9463, 321.7459 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="321.7459 241.1227, 327.4152 241.1227, 327.4152 239.4975, 321.7459 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="321.7459 224.1148, 327.4152 224.1148, 327.4152 222.4896, 321.7459 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="346.7097 250.5715, 352.3789 250.5715, 352.3789 248.9463, 346.7097 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="346.7097 241.1227, 352.3789 241.1227, 352.3789 239.4975, 346.7097 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="346.7097 224.1148, 352.3789 224.1148, 352.3789 222.4896, 346.7097 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="371.6734 250.5715, 377.3427 250.5715, 377.3427 248.9463, 371.6734 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="371.6734 241.1227, 377.3427 241.1227, 377.3427 239.4975, 371.6734 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="371.6734 224.1148, 377.3427 224.1148, 377.3427 222.4896, 371.6734 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="396.6372 250.5715, 402.3065 250.5715, 402.3065 248.9463, 396.6372 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="396.6372 241.1227, 402.3065 241.1227, 402.3065 239.4975, 396.6372 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="396.6372 224.1148, 402.3065 224.1148, 402.3065 222.4896, 396.6372 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="421.601 250.5715, 427.2703 250.5715, 427.2703 248.9463, 421.601 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="421.601 241.1227, 427.2703 241.1227, 427.2703 239.4975, 421.601 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="421.601 224.1148, 427.2703 224.1148, 427.2703 222.4896, 421.601 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="446.3947 250.5715, 452.064 250.5715, 452.064 248.9463, 446.3947 248.9463" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="446.3947 241.1227, 452.064 241.1227, 452.064 239.4975, 446.3947 239.4975" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="446.3947 224.1148, 452.064 224.1148, 452.064 222.4896, 446.3947 222.4896" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="122.0356 205.5195, 127.7049 205.5195, 127.7049 203.8943, 122.0356 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="122.0356 196.0707, 127.7049 196.0707, 127.7049 194.4455, 122.0356 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="122.0356 179.0628, 127.7049 179.0628, 127.7049 177.4376, 122.0356 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="146.9994 205.5195, 152.6687 205.5195, 152.6687 203.8943, 146.9994 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="146.9994 196.0707, 152.6687 196.0707, 152.6687 194.4455, 146.9994 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="146.9994 179.0628, 152.6687 179.0628, 152.6687 177.4376, 146.9994 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="171.9632 205.5195, 177.6325 205.5195, 177.6325 203.8943, 171.9632 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="171.9632 196.0707, 177.6325 196.0707, 177.6325 194.4455, 171.9632 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="171.9632 179.0628, 177.6325 179.0628, 177.6325 177.4376, 171.9632 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="196.927 205.5195, 202.5963 205.5195, 202.5963 203.8943, 196.927 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="196.927 196.0707, 202.5963 196.0707, 202.5963 194.4455, 196.927 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="196.927 179.0628, 202.5963 179.0628, 202.5963 177.4376, 196.927 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="221.8908 205.5195, 227.5601 205.5195, 227.5601 203.8943, 221.8908 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="221.8908 196.0707, 227.5601 196.0707, 227.5601 194.4455, 221.8908 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="221.8908 179.0628, 227.5601 179.0628, 227.5601 177.4376, 221.8908 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="246.8545 205.5195, 252.5238 205.5195, 252.5238 203.8943, 246.8545 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="246.8545 196.0707, 252.5238 196.0707, 252.5238 194.4455, 246.8545 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="246.8545 179.0628, 252.5238 179.0628, 252.5238 177.4376, 246.8545 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="271.8183 205.5195, 277.4876 205.5195, 277.4876 203.8943, 271.8183 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="271.8183 196.0707, 277.4876 196.0707, 277.4876 194.4455, 271.8183 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="271.8183 179.0628, 277.4876 179.0628, 277.4876 177.4376, 271.8183 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="296.7821 205.5195, 302.4514 205.5195, 302.4514 203.8943, 296.7821 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="296.7821 196.0707, 302.4514 196.0707, 302.4514 194.4455, 296.7821 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="296.7821 179.0628, 302.4514 179.0628, 302.4514 177.4376, 296.7821 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="321.7459 205.5195, 327.4152 205.5195, 327.4152 203.8943, 321.7459 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="321.7459 196.0707, 327.4152 196.0707, 327.4152 194.4455, 321.7459 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="321.7459 179.0628, 327.4152 179.0628, 327.4152 177.4376, 321.7459 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="346.7097 205.5195, 352.3789 205.5195, 352.3789 203.8943, 346.7097 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="346.7097 196.0707, 352.3789 196.0707, 352.3789 194.4455, 346.7097 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="346.7097 179.0628, 352.3789 179.0628, 352.3789 177.4376, 346.7097 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="371.6734 205.5195, 377.3427 205.5195, 377.3427 203.8943, 371.6734 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="371.6734 196.0707, 377.3427 196.0707, 377.3427 194.4455, 371.6734 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="371.6734 179.0628, 377.3427 179.0628, 377.3427 177.4376, 371.6734 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="396.6372 205.5195, 402.3065 205.5195, 402.3065 203.8943, 396.6372 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="396.6372 196.0707, 402.3065 196.0707, 402.3065 194.4455, 396.6372 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="396.6372 179.0628, 402.3065 179.0628, 402.3065 177.4376, 396.6372 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="421.601 205.5195, 427.2703 205.5195, 427.2703 203.8943, 421.601 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="421.601 196.0707, 427.2703 196.0707, 427.2703 194.4455, 421.601 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="421.601 179.0628, 427.2703 179.0628, 427.2703 177.4376, 421.601 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="446.3947 205.5195, 452.064 205.5195, 452.064 203.8943, 446.3947 203.8943" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="446.3947 196.0707, 452.064 196.0707, 452.064 194.4455, 446.3947 194.4455" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="446.3947 179.0628, 452.064 179.0628, 452.064 177.4376, 446.3947 177.4376" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="122.0356 160.4675, 127.7049 160.4675, 127.7049 158.8424, 122.0356 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="122.0356 151.0187, 127.7049 151.0187, 127.7049 149.3935, 122.0356 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="122.0356 134.0109, 127.7049 134.0109, 127.7049 132.3857, 122.0356 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="146.9994 160.4675, 152.6687 160.4675, 152.6687 158.8424, 146.9994 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="146.9994 151.0187, 152.6687 151.0187, 152.6687 149.3935, 146.9994 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="146.9994 134.0109, 152.6687 134.0109, 152.6687 132.3857, 146.9994 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="171.9632 160.4675, 177.6325 160.4675, 177.6325 158.8424, 171.9632 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="171.9632 151.0187, 177.6325 151.0187, 177.6325 149.3935, 171.9632 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="171.9632 134.0109, 177.6325 134.0109, 177.6325 132.3857, 171.9632 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="196.927 160.4675, 202.5963 160.4675, 202.5963 158.8424, 196.927 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="196.927 151.0187, 202.5963 151.0187, 202.5963 149.3935, 196.927 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="196.927 134.0109, 202.5963 134.0109, 202.5963 132.3857, 196.927 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="221.8908 160.4675, 227.5601 160.4675, 227.5601 158.8424, 221.8908 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="221.8908 151.0187, 227.5601 151.0187, 227.5601 149.3935, 221.8908 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="221.8908 134.0109, 227.5601 134.0109, 227.5601 132.3857, 221.8908 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="246.8545 160.4675, 252.5238 160.4675, 252.5238 158.8424, 246.8545 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="246.8545 151.0187, 252.5238 151.0187, 252.5238 149.3935, 246.8545 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="246.8545 134.0109, 252.5238 134.0109, 252.5238 132.3857, 246.8545 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="271.8183 160.4675, 277.4876 160.4675, 277.4876 158.8424, 271.8183 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="271.8183 151.0187, 277.4876 151.0187, 277.4876 149.3935, 271.8183 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="271.8183 134.0109, 277.4876 134.0109, 277.4876 132.3857, 271.8183 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="296.7821 160.4675, 302.4514 160.4675, 302.4514 158.8424, 296.7821 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="296.7821 151.0187, 302.4514 151.0187, 302.4514 149.3935, 296.7821 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="296.7821 134.0109, 302.4514 134.0109, 302.4514 132.3857, 296.7821 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="321.7459 160.4675, 327.4152 160.4675, 327.4152 158.8424, 321.7459 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="321.7459 151.0187, 327.4152 151.0187, 327.4152 149.3935, 321.7459 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="321.7459 134.0109, 327.4152 134.0109, 327.4152 132.3857, 321.7459 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="346.7097 160.4675, 352.3789 160.4675, 352.3789 158.8424, 346.7097 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="346.7097 151.0187, 352.3789 151.0187, 352.3789 149.3935, 346.7097 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="346.7097 134.0109, 352.3789 134.0109, 352.3789 132.3857, 346.7097 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="371.6734 160.4675, 377.3427 160.4675, 377.3427 158.8424, 371.6734 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="371.6734 151.0187, 377.3427 151.0187, 377.3427 149.3935, 371.6734 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="371.6734 134.0109, 377.3427 134.0109, 377.3427 132.3857, 371.6734 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="396.6372 160.4675, 402.3065 160.4675, 402.3065 158.8424, 396.6372 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="396.6372 151.0187, 402.3065 151.0187, 402.3065 149.3935, 396.6372 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="396.6372 134.0109, 402.3065 134.0109, 402.3065 132.3857, 396.6372 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="421.601 160.4675, 427.2703 160.4675, 427.2703 158.8424, 421.601 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="421.601 151.0187, 427.2703 151.0187, 427.2703 149.3935, 421.601 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="421.601 134.0109, 427.2703 134.0109, 427.2703 132.3857, 421.601 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="446.3947 160.4675, 452.064 160.4675, 452.064 158.8424, 446.3947 158.8424" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="446.3947 151.0187, 452.064 151.0187, 452.064 149.3935, 446.3947 149.3935" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="446.3947 134.0109, 452.064 134.0109, 452.064 132.3857, 446.3947 132.3857" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="484.19 250.5715, 489.8593 250.5715, 489.8593 248.9463, 484.19 248.9463" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="508.9837 250.5715, 514.653 250.5715, 514.653 248.9463, 508.9837 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="484.19 241.1227, 489.8593 241.1227, 489.8593 239.4975, 484.19 239.4975" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="508.9837 241.1227, 514.653 241.1227, 514.653 239.4975, 508.9837 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="484.19 224.1148, 489.8593 224.1148, 489.8593 222.4896, 484.19 222.4896" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="508.9837 224.1148, 514.653 224.1148, 514.653 222.4896, 508.9837 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="533.9475 250.5715, 539.6167 250.5715, 539.6167 248.9463, 533.9475 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="533.9475 241.1227, 539.6167 241.1227, 539.6167 239.4975, 533.9475 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="533.9475 224.1148, 539.6167 224.1148, 539.6167 222.4896, 533.9475 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="558.9112 250.5715, 564.5805 250.5715, 564.5805 248.9463, 558.9112 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="558.9112 241.1227, 564.5805 241.1227, 564.5805 239.4975, 558.9112 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="558.9112 224.1148, 564.5805 224.1148, 564.5805 222.4896, 558.9112 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="583.875 250.5715, 589.5443 250.5715, 589.5443 248.9463, 583.875 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="583.875 241.1227, 589.5443 241.1227, 589.5443 239.4975, 583.875 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="583.875 224.1148, 589.5443 224.1148, 589.5443 222.4896, 583.875 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="608.8388 250.5715, 614.5081 250.5715, 614.5081 248.9463, 608.8388 248.9463" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="608.8388 241.1227, 614.5081 241.1227, 614.5081 239.4975, 608.8388 239.4975" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="608.8388 224.1148, 614.5081 224.1148, 614.5081 222.4896, 608.8388 222.4896" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="484.19 205.5195, 489.8593 205.5195, 489.8593 203.8943, 484.19 203.8943" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="508.9837 205.5195, 514.653 205.5195, 514.653 203.8943, 508.9837 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="484.19 196.0707, 489.8593 196.0707, 489.8593 194.4455, 484.19 194.4455" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="508.9837 196.0707, 514.653 196.0707, 514.653 194.4455, 508.9837 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="484.19 179.0628, 489.8593 179.0628, 489.8593 177.4376, 484.19 177.4376" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="508.9837 179.0628, 514.653 179.0628, 514.653 177.4376, 508.9837 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="533.9475 205.5195, 539.6167 205.5195, 539.6167 203.8943, 533.9475 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="533.9475 196.0707, 539.6167 196.0707, 539.6167 194.4455, 533.9475 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="533.9475 179.0628, 539.6167 179.0628, 539.6167 177.4376, 533.9475 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="558.9112 205.5195, 564.5805 205.5195, 564.5805 203.8943, 558.9112 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="558.9112 196.0707, 564.5805 196.0707, 564.5805 194.4455, 558.9112 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="558.9112 179.0628, 564.5805 179.0628, 564.5805 177.4376, 558.9112 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="583.875 205.5195, 589.5443 205.5195, 589.5443 203.8943, 583.875 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="583.875 196.0707, 589.5443 196.0707, 589.5443 194.4455, 583.875 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="583.875 179.0628, 589.5443 179.0628, 589.5443 177.4376, 583.875 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="608.8388 205.5195, 614.5081 205.5195, 614.5081 203.8943, 608.8388 203.8943" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="608.8388 196.0707, 614.5081 196.0707, 614.5081 194.4455, 608.8388 194.4455" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="608.8388 179.0628, 614.5081 179.0628, 614.5081 177.4376, 608.8388 177.4376" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="484.19 160.4675, 489.8593 160.4675, 489.8593 158.8424, 484.19 158.8424" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="508.9837 160.4675, 514.653 160.4675, 514.653 158.8424, 508.9837 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="484.19 151.0187, 489.8593 151.0187, 489.8593 149.3935, 484.19 149.3935" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="508.9837 151.0187, 514.653 151.0187, 514.653 149.3935, 508.9837 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="484.19 134.0109, 489.8593 134.0109, 489.8593 132.3857, 484.19 132.3857" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(9%,9%,9%); fill-rule: evenodd;"/>
+			<polygon points="508.9837 134.0109, 514.653 134.0109, 514.653 132.3857, 508.9837 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="533.9475 160.4675, 539.6167 160.4675, 539.6167 158.8424, 533.9475 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="533.9475 151.0187, 539.6167 151.0187, 539.6167 149.3935, 533.9475 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="533.9475 134.0109, 539.6167 134.0109, 539.6167 132.3857, 533.9475 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="558.9112 160.4675, 564.5805 160.4675, 564.5805 158.8424, 558.9112 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="558.9112 151.0187, 564.5805 151.0187, 564.5805 149.3935, 558.9112 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="558.9112 134.0109, 564.5805 134.0109, 564.5805 132.3857, 558.9112 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="583.875 160.4675, 589.5443 160.4675, 589.5443 158.8424, 583.875 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="583.875 151.0187, 589.5443 151.0187, 589.5443 149.3935, 583.875 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="583.875 134.0109, 589.5443 134.0109, 589.5443 132.3857, 583.875 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="608.8388 160.4675, 614.5081 160.4675, 614.5081 158.8424, 608.8388 158.8424" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="608.8388 151.0187, 614.5081 151.0187, 614.5081 149.3935, 608.8388 149.3935" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<polygon points="608.8388 134.0109, 614.5081 134.0109, 614.5081 132.3857, 608.8388 132.3857" style="stroke: rgb(46%,46%,46%); stroke-linecap: butt; stroke-width: 0.25; fill: rgb(46%,46%,46%); fill-rule: evenodd;"/>
+			<g transform=" matrix(1,0,0,1,8,60)">
+				<text x="0" y="-2.1" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-4) scale(1,-1)">Shared intermediate clamp: ONE part between TWO frames.</text>
+			</g>
+			<g transform=" matrix(1,0,0,1,8,48)">
+				<text x="0" y="-2.1" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-4) scale(1,-1)">R: end (black)   I: intermediate (gray)   S: uniform (light gray)   !: missing mounting</text>
+			</g>
+			<path d="M 689.204724,48 L 727,48 Z" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 689.204724,45 L 689.204724,51 Z" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 727,45 L 727,51 Z" style="stroke: rgb(9%,9%,9%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<g transform=" matrix(1,0,0,1,708.102362,59)">
+				<text x="-13.321" y="-2.1" style="font-family: Times-Roman; font-size: 7px;fill: rgb(9%,9%,9%); stroke:none;" transform="translate(0,-4) scale(1,-1)">2000 mm</text>
+			</g>
+		</g>
+	</g>
+</svg>
