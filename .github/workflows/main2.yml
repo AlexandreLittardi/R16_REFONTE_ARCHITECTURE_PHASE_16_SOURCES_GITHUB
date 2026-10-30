@@ -1,0 +1,68 @@
+name: Build Windows EXE
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        shell: pwsh
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m pip install "pyinstaller>=6,<7"
+
+      - name: Build standalone EXE
+        shell: pwsh
+        run: |
+          python -m PyInstaller `
+            --noconfirm `
+            --clean `
+            --onefile `
+            --windowed `
+            --name PV_Engineering_R16 `
+            main.py
+
+      - name: Verify EXE exists
+        shell: pwsh
+        run: |
+          if (-not (Test-Path 'dist/PV_Engineering_R16.exe')) {
+            throw 'EXE not found after build.'
+          }
+          Get-Item 'dist/PV_Engineering_R16.exe' | Select-Object Name, Length
+
+      - name: Upload EXE as workflow artifact
+        uses: actions/upload-artifact@v6
+        with:
+          name: PV_Engineering_R16_Windows
+          path: dist/PV_Engineering_R16.exe
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Publish GitHub Release (version tags only)
+        if: startsWith(github.ref, 'refs/tags/v')
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        shell: pwsh
+        run: |
+          gh release create '${{ github.ref_name }}' 'dist/PV_Engineering_R16.exe' --title '${{ github.ref_name }}' --generate-notes
